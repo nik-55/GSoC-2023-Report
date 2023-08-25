@@ -1,7 +1,4 @@
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="./GSoC-Vertical.jpg" alt="GSoC"/>
-  <img src="./Wikifunctions.jpg" alt="Wikifunctions"/>
-</div>
+<img src="./Presentation1.png" alt="GSoC - Wikifunctions"/>
 
 # Google Summer of Code 2023 - Report
 Hello there👋, I am [Nikhil Mahajan](https://github.com/nik-55), a passionate software engineer and open-source enthusiast from India. This is my submission report for GSoC 2023 at the [Wikimedia Foundation](https://wikimediafoundation.org/). You can find the relevant links below.

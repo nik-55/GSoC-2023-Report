@@ -2,6 +2,7 @@
 Hello there👋, I am [Nikhil Mahajan](https://github.com/nik-55), a passionate software engineer and open-source enthusiast from India. This is my submission report for GSoC 2023 at the [Wikimedia Foundation](https://wikimediafoundation.org/). You can find the relevant links below.
 - [Parent Task](https://phabricator.wikimedia.org/T328587)
 - [Accepted Proposal](https://phabricator.wikimedia.org/T333498)
+- [**Final Product**](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/extensions/WikiLambda/+/e5c08afbf4b807cfb355fe567318599c3c630abe/tests/selenium/) - I have contributed 90% to the code
 
 ## Overview of my contributions
 The patches are listed in chronological order, with the latest contributions being first in the sequence.

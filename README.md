@@ -9,7 +9,7 @@ Hello there👋, I am [Nikhil Mahajan](https://github.com/nik-55), a passionate 
 - [**Final Product**](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/extensions/WikiLambda/+/e5c08afbf4b807cfb355fe567318599c3c630abe/tests/selenium/) - I have contributed 90% to the code
 
 ## Summary of the goals
-I have developed the tests that replicate important user journeys within the Wikifunctions platform. These tests play a crucial role in ensuring that modifications to the code (patches) don't cause any disruptions in how users interact with the application. These tests run every time a patch is being reviewed. The primary aim is to prevent the incorporation of patches that accidentally introduce bugs into the application. These tests fail if a patch creates problems for any of the user journeys. Moreover, these tests aid in identifying and fixing issues effectively.
+I have developed the tests that replicate important user journeys within the Wikifunction platform. These tests play a crucial role in ensuring that modifications to the code (patches) don't cause any disruptions in how users interact with the application. These tests run every time a patch is being reviewed. The primary aim is to prevent the incorporation of patches that accidentally introduce bugs into the application. These tests fail if a patch creates problems for any of the user journeys. Moreover, these tests aid in identifying and fixing issues effectively.
 
 ## Overview of my contributions
 The patches are listed in chronological order, with the latest contributions being first in the sequence.

@@ -2,9 +2,14 @@
 
 # Google Summer of Code 2023 - Report
 Hello there👋, I am [Nikhil Mahajan](https://github.com/nik-55), a passionate software engineer and open-source enthusiast from India. This is my submission report for GSoC 2023 at the [Wikimedia Foundation](https://wikimediafoundation.org/). You can find the relevant links below.
-- [Parent Task](https://phabricator.wikimedia.org/T328587)
+- [Primary task](https://phabricator.wikimedia.org/T328587)
 - [Accepted Proposal](https://phabricator.wikimedia.org/T333498)
+- Project - [Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
+- Mentors - [Stef](https://www.mediawiki.org/wiki/User:SDunlap-WMF) and [James](https://www.mediawiki.org/wiki/User:Jdforrester_(WMF))
 - [**Final Product**](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/extensions/WikiLambda/+/e5c08afbf4b807cfb355fe567318599c3c630abe/tests/selenium/) - I have contributed 90% to the code
+
+## Summary of the goals
+I have developed the tests that replicate important user journeys within the Wikifunction platform. These tests play a crucial role in ensuring that modifications to the code (patches) don't cause any disruptions in how users interact with the application. These tests run every time a patch is being reviewed. The primary aim is to prevent the incorporation of patches that accidentally introduce bugs into the application. These tests fail if a patch creates problems for any of the user journeys. Moreover, these tests aid in identifying and fixing issues effectively.
 
 ## Overview of my contributions
 The patches are listed in chronological order, with the latest contributions being first in the sequence.
@@ -25,3 +30,12 @@ The patches are listed in chronological order, with the latest contributions bei
 - `fix`: [Update tests for "Evaluate a function" journey](https://gerrit.wikimedia.org/r/c/mediawiki/extensions/WikiLambda/+/926554)
 - `refactor`: [Update directory structure for function tests](https://gerrit.wikimedia.org/r/c/mediawiki/extensions/WikiLambda/+/924141)
 - `feature`: [Add tests for "Create a tester" journey](https://gerrit.wikimedia.org/r/c/mediawiki/extensions/WikiLambda/+/920343)
+
+## What is left to do?
+- [Feature addition in the CI/CD pipeline](https://phabricator.wikimedia.org/T343831)
+
+## Thanks to the Community
+
+I want to say a **big thank you** to the **Wikimedia Community** 🌟. Participating in the GSoC has been an amazing experience where I've learned and grown a lot while working together with others. I feel really lucky to be part of this wonderful community. Right from the start, everyone was very friendly and welcoming. I'm happy that I could contribute to the Wikimedia mission. The things I've learned during this time will definitely help me in the future. I'm also looking forward to seeing what's next for [Abstract Wikipedia](https://en.wikipedia.org/wiki/Abstract_Wikipedia).   
+  
+To the [**aw-team**](https://www.mediawiki.org/wiki/Abstract_Wikipedia_team) and my mentors [**Stef**](https://www.mediawiki.org/wiki/User:SDunlap-WMF) and [**James**](https://www.mediawiki.org/wiki/User:Jdforrester_(WMF)) - Your patience, guidance, and support mean a lot to me. **Thank u so much!** 🙌

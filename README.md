@@ -31,6 +31,9 @@ The patches are listed in chronological order, with the latest contributions bei
 - `refactor`: [Update directory structure for function tests](https://gerrit.wikimedia.org/r/c/mediawiki/extensions/WikiLambda/+/924141)
 - `feature`: [Add tests for "Create a tester" journey](https://gerrit.wikimedia.org/r/c/mediawiki/extensions/WikiLambda/+/920343)
 
+## What is left to do?
+- [Feature addition in the CI/CD pipeline](https://phabricator.wikimedia.org/T343831)
+
 ## Thanks to the Community
 
 I want to say a **big thank you** to the **Wikimedia Community** 🌟. Participating in the GSoC has been an amazing experience where I've learned and grown a lot while working together with others. I feel really lucky to be part of this wonderful community. Right from the start, everyone was very friendly and welcoming. I'm happy that I could contribute to the Wikimedia mission. The things I've learned during this time will definitely help me in the future. I'm also looking forward to seeing what's next for [Abstract Wikipedia](https://en.wikipedia.org/wiki/Abstract_Wikipedia).   

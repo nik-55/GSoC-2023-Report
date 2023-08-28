@@ -5,7 +5,8 @@ Hello there👋, I am [Nikhil Mahajan](https://github.com/nik-55), a passionate 
 - [Primary task](https://phabricator.wikimedia.org/T328587)
 - [Accepted Proposal](https://phabricator.wikimedia.org/T333498)
 - Project - [Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
-- Mentors - [Stef](https://www.mediawiki.org/wiki/User:SDunlap-WMF) and [James](https://www.mediawiki.org/wiki/User:Jdforrester_(WMF))
+- Mentors - [Stef](https://www.mediawiki.org/wiki/User:SDunlap-WMF), [James](https://www.mediawiki.org/wiki/User:Jdforrester_(WMF)) and [Cory](https://www.mediawiki.org/wiki/User:CMassaro_(WMF))
+- Community - [Abstract Wikipedia Team](https://www.mediawiki.org/wiki/Abstract_Wikipedia_team)
 - [**Final Product**](https://gerrit.wikimedia.org/r/plugins/gitiles/mediawiki/extensions/WikiLambda/+/e5c08afbf4b807cfb355fe567318599c3c630abe/tests/selenium/) - I have contributed 90% to the code
 
 ## Summary of the goals
